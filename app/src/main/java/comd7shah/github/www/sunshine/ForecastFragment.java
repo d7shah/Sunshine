@@ -300,6 +300,8 @@ public class ForecastFragment extends Fragment {
                 mForecastAdapter.clear();
                 for (String dayForecastStr : result){
                     mForecastAdapter.add(dayForecastStr);
+
+                    //sdfgsgs
                 }
             }
         }
